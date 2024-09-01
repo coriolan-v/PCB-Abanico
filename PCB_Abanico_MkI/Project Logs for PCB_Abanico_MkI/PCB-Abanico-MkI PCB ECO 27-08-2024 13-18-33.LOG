@@ -1,0 +1,66 @@
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=LED? NewDesignator=LED5
+Change Component Designator: OldDesignator=LED? NewDesignator=LED6
+Change Component Designator: OldDesignator=LED? NewDesignator=LED7
+Change Component Designator: OldDesignator=LED? NewDesignator=LED8
+Change Component Designator: OldDesignator=LED? NewDesignator=LED9
+Change Component Designator: OldDesignator=LED? NewDesignator=LED10
+Change Component Designator: OldDesignator=LED? NewDesignator=LED11
+Change Component Designator: OldDesignator=LED? NewDesignator=LED12
+Change Net Name : Old Net Name=NetLED?_2 New Net Name=NetLED2_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED2-4
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED4-4
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED5-4
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED6-4
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED7-4
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED8-4
+Added Net: Name=NetLED7_2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED9-4
+Added Net: Name=NetLED8_2
+Added Pin To Net: NetName=NetLED9_2 Pin=LED9-2
+Added Pin To Net: NetName=NetLED9_2 Pin=LED10-4
+Added Net: Name=NetLED9_2
+Added Pin To Net: NetName=NetLED10_2 Pin=LED10-2
+Added Pin To Net: NetName=NetLED10_2 Pin=LED11-4
+Added Net: Name=NetLED10_2
+Added Pin To Net: NetName=NetLED11_2 Pin=LED11-2
+Added Pin To Net: NetName=NetLED11_2 Pin=LED12-4
+Added Net: Name=NetLED11_2
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component LED1 SK6812MINI-E
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component LED2 SK6812MINI-E
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component LED3 SK6812MINI-E
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component LED4 SK6812MINI-E
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component LED5 SK6812MINI-E
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component LED7 SK6812MINI-E
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component LED8 SK6812MINI-E
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component LED9 SK6812MINI-E
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component LED10 SK6812MINI-E
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component LED11 SK6812MINI-E
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component LED12 SK6812MINI-E
+Added Room: Name=PCB-Abanico-MkI

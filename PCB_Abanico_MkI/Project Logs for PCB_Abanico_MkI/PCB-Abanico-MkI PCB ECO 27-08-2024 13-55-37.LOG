@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=IN Pin=LED1-4
+Added Net: Name=IN
+Added Pin To Net: NetName=OUT Pin=LED12-2
+Added Net: Name=OUT
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component C? 04021A150KAT2A
+Added Member To Class: ClassName=PCB-Abanico-MkI Member=Component LED6 SK6812MINI-E
+Added Room: Name=PCB-Abanico-MkI
